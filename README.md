@@ -1,4 +1,4 @@
-# songrecommendationsystem
+# Song Recommendation System
 Song Playlist Recommender System Using Machine Learning Techniques With Spotify Dataset
 
 This project attempt to develop a recommender system for automating playlist generation by the addition of relevant songs, hence extending a current playlist beyond the last song. Our focus is on enhancing user experience when listeners are in an ‘open’ mindset (40% of the time), as stated above.

@@ -57,3 +57,12 @@ The following five algorithms are used in stacking ensemble: 1) Logistic Regress
 ![alt text](https://github.com/kenaimachine/songrecommendationsystem/blob/main/images/Stacking%20Classifier%20Ensemble%20Approach4.png?raw=true)
 
 ![alt text](https://github.com/kenaimachine/songrecommendationsystem/blob/main/images/Stacking%20Classifier%20Ensemble%20Approach5.png?raw=true)
+
+
+#### References
+
+1)	Ghai, B., Dhar, J., and Shukla, A.: Multi-Level Ensemble Learning based Recommender System. (2018). 
+2)	Xiaoyu Zhang, ChaoFan Dai, and Yanpeng Zhao.: Logistic Recommendation Algorithm Based On Collaborative Filtering. (2015). 2nd International Workshop On Materials Engineering And Computer Science (2015).
+3)	Reka.K., and Ravi,T.: Stacking Based Meta Model For Movie Recommendation.(2020). International Journal Of Advanced Science And Technology.
+4)	Piyush Papreja. (2019). Building Music Playlists Recommendation System. Retrieved from  https://towardsdatascience.com/building-music-playlists-recommendation-system-564a3e63ef64  
+

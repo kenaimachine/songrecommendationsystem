@@ -26,6 +26,9 @@ The assumption of this approach for collaborative filtering model is based on id
 2)	Using Matrix Factorization Method
 3)	Using Stacking Classifier Ensemble Method 
 
+![alt text](https://github.com/kenaimachine/songrecommendationsystem/blob/main/images/Collaborative%20Filtering.png?raw=true)
+
+
 Each of these approaches broadly follows the macro idea of two step process: First step is finding similar playlist to ‘query playlist’ (which is the playlist which is the subject here). Second step is finding songs which are similar to those in query playlist and determine a performance score. 
 
 Key terminology: ‘Query playlist’ refers to the playlist which we intend to find songs to add on to. 

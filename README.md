@@ -26,6 +26,9 @@ The assumption of this approach for collaborative filtering model is based on id
 2)	Using Matrix Factorization Method
 3)	Using Stacking Classifier Ensemble Method 
 
+
+![alt text](https://github.com/kenaimachine/songrecommendationsystem/blob/main/images/Basic%20Approach.png?raw=true)
+
 ![alt text](https://github.com/kenaimachine/songrecommendationsystem/blob/main/images/Collaborative%20Filtering.png?raw=true)
 
 
@@ -45,3 +48,12 @@ The next step to get the best song, will involve the use of Stacking Classifier 
 
 The following five algorithms are used in stacking ensemble: 1) Logistic Regression, 2) K-Nearest Neighbors, 3) Decision Tree, 4)SVC and 5) Gaussian Naïve Bayes. They are selected because they are all classifiers and represent diverse algorithms. In addition, two meta learners are compared. Namely, Logistic Regression and Gradient Boosting Classifier. Gradient Boosting is selected as it seems to give better result. GridSeachCV is used to find predefined hyperparameters to get the best hyperparameters for each base model. Getting better tuned base models improves prediction for the Stacking Classifier Ensemble. 
 
+![alt text](https://github.com/kenaimachine/songrecommendationsystem/blob/main/images/Stacking%20Classifier%20Ensemble%20Approach1.png?raw=true)
+
+![alt text](https://github.com/kenaimachine/songrecommendationsystem/blob/main/images/Stacking%20Classifier%20Ensemble%20Approach2.png?raw=true)
+
+![alt text](https://github.com/kenaimachine/songrecommendationsystem/blob/main/images/Stacking%20Classifier%20Ensemble%20Approach3.png?raw=true)
+
+![alt text](https://github.com/kenaimachine/songrecommendationsystem/blob/main/images/Stacking%20Classifier%20Ensemble%20Approach4.png?raw=true)
+
+![alt text](https://github.com/kenaimachine/songrecommendationsystem/blob/main/images/Stacking%20Classifier%20Ensemble%20Approach5.png?raw=true)
